@@ -11,6 +11,9 @@ A> No, TGC is not looking to sell the company.
 
 ## GameGuru Classic and MAX
 
+Q? I am an artist and create models in the FBX file format, does GameGuru MAX allow me to import my FBX models?
+A> Yes, GameGuru MAX can import 3D models in the FBX, GLTF, OBJ, DBO, and X file formats.
+
 Q? I have a question about one of your DLCs. Can you help?
 A> Most of the DLC found in GameGuru Classic and GameGuru MAX are created by third-party artists, and you can make suggestions for additions and changes directly to the artist.
 
