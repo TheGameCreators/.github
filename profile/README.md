@@ -1,12 +1,26 @@
-## Hi there 👋
+# (TGC) TheGameCreators FAQ for Technical Support
 
-<!--
+Q? How tdo I buy GameGuru Classic, GameGuru MAX, AGK Classic or AGK Studio? 
+A> You can find our products on the Steam website, and download their Steam client to install and run them. Here is a link to all our products: https://store.steampowered.com/search/?developer=TheGameCreators
 
-**Here are some ideas to get you started:**
+Q? Is TGC interested in new services to help your website visibility, protection, selling your company, viewing photos, and other offers that might be considered the topic of email spamming?
+A> No, TGC is not interested in these topics and considers such material as SPAM when they are sent to our technical support system.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Q? Is TGC interested in selling your company?
+A> No, TGC is not looking to sell the company.
+
+## GameGuru Classic and MAX
+
+Q? I am an artist and create models in the FBX file format, does GameGuru MAX allow me to import my FBX models?
+A> Yes, GameGuru MAX can import 3D models in the FBX, GLTF, OBJ, DBO, and X file formats.
+
+Q? I have a question about one of your DLCs. Can you help?
+A> Most of the DLC found in GameGuru Classic and GameGuru MAX are created by third-party artists, and you can make suggestions for additions and changes directly to the artist.
+
+## AppGameKit
+
+Q? I have a question about the AGK Mobile app that runs on my Android and iOS devices. Can you help?
+A> AGK Mobile is developed by a third-party developer. We have no creation products that run on Android. We do sell AppGameKit which enables export to an APK that runs on Android, but you need to do the creation on a PC in Windows.
+
+Q?
+A>
