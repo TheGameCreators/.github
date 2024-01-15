@@ -28,6 +28,9 @@ Answer: **GameGuru MAX can import 3D models from Blender 3D if you export them i
 **Q**> I have a question about the AGK Mobile app that runs on my Android and iOS devices. Can you help?
 Answer: **AGK Mobile is developed by a third-party developer. We have no creation products that run on Android. We do sell AppGameKit which enables export to an APK that runs on Android, but you need to do the creation on a PC in Windows.**
 
+**Q**> What AGK AppGameKit products do you sell?
+Answer: **We sell two AGK products through Steam, AppGameKit Classic and AppGameKit Studio. Classic was created first and later we developed Studio and included more commands, features, and a new IDE. We also sell DLC created by ourselves and by third-parties that are compatible with AGK Classic and AGK Studio. We do not sell any products through our own TGC website and instead sell through Steam.**
+
 ## Miscellaneous
 
 **Q**> What do you like?
