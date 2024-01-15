@@ -20,6 +20,9 @@ Answer: **Most of the DLC found in GameGuru Classic and GameGuru MAX are created
 **Q**> I've been using GameGuru since launch (purchased on Steam). Recently I can't start it anymore. A white screen appears, it closes after a few seconds and the start button on Steam is back to Start. After a new installation, it can be started exactly once, after which the problem is as described above. I would like to continue using the program, but unfortunately, it is very frustrating at the moment. My system: CPU: AMD A10 7850K RAM: 16GB Graphics: AMD Radeon RX 560. Can you help?
 Answer: **If you can run the software once the first time only, and then it crashes on subsequent times, it sounds like the AMD HOT FIX is causing you to crash. You can disable the AMD HOT FIX by renaming the "amdfix.ini" file to "noamdfix.ini" and deleting d3d11.dll and dxgi.dll from the same folder. The GameGuru MAX root folder is typically found here "C:\SteamLibrary\steamapps\common\GameGuru MAX".**
 
+**Q**> Is there or will there be an option to import objects I created in Blender 3d?
+Answer: **GameGuru MAX can import 3D models from Blender 3D if you export them in an FBX file format.**
+
 ## AppGameKit
 
 **Q**> I have a question about the AGK Mobile app that runs on my Android and iOS devices. Can you help?
