@@ -6,6 +6,9 @@ A> You can find our products on the Steam website, and download their Steam clie
 Q? Is TGC interested in new services to help your website visibility, protection, selling your company, viewing photos, and other offers that might be considered the topic of email spamming?
 A> No, TGC is not interested in these topics and considers such material as SPAM when they are sent to our technical support system.
 
+Q? Is TGC interested in selling your company?
+A> No, TGC is not looking to sell the company.
+
 ## GameGuru Classic and MAX
 
 Q? I have a question about one of your DLCs. Can you help?
