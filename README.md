@@ -18,5 +18,3 @@ A> AGK Mobile is developed by a third-party developer. We have no creation produ
 
 Q?
 A>
-
-All questions and answers copyright (c) TheGameCreators Ltd 1999-2024
