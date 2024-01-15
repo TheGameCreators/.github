@@ -17,6 +17,9 @@ A> Yes, GameGuru MAX can import 3D models in the FBX, GLTF, OBJ, DBO, and X file
 Q? I have a question about one of your DLCs. Can you help?
 A> Most of the DLC found in GameGuru Classic and GameGuru MAX are created by third-party artists, and you can make suggestions for additions and changes directly to the artist.
 
+Q? I've been using GameGuru since launch (purchased on Steam). Recently I can't start it anymore. A white screen appears, it closes after a few seconds and the start button on Steam is back to Start. After a new installation, it can be started exactly once, after which the problem is as described above. I would like to continue using the program, but unfortunately, it is very frustrating at the moment. My system: CPU: AMD A10 7850K RAM: 16GB Graphics: AMD Radeon RX 560. Can you help?
+A> If you can run the software once the first time only, and then it crashes on subsequent times, it sounds like the AMD HOT FIX is causing you to crash. You can disable the AMD HOT FIX by renaming the "amdfix.ini" file to "noamdfix.ini" and deleting d3d11.dll and dxgi.dll from the same folder. The GameGuru MAX root folder is typically found here "C:\SteamLibrary\steamapps\common\GameGuru MAX".
+
 ## AppGameKit
 
 Q? I have a question about the AGK Mobile app that runs on my Android and iOS devices. Can you help?
@@ -24,3 +27,4 @@ A> AGK Mobile is developed by a third-party developer. We have no creation produ
 
 Q?
 A>
+
