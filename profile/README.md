@@ -9,6 +9,9 @@ Answer: **No, TGC is not interested in these topics and considers such material 
 **Q**> Is TGC interested in selling your company?
 Answer: **No, TGC is not looking to sell the company.**
 
+**Q**> We have a pupil who attends our school and is writing and illustrating stories that include characters from your products and concerned he will breach your copyright?
+Answer: **All the assets that are built into our game-making products are allowed to be used in games you make with no copyright issues or license fees to pay. It is generally agreed that providing you use our game maker products when using the assets we provide, you are free to exploit those assets as part of your game commercially with no issues. It goes without saying that you cannot take our assets and sell them separately as your own assets, they can only be included in a derivative work produced by our game-making products.**
+
 ## GameGuru Classic and MAX
 
 **Q**> I am an artist and create models in the FBX file format, does GameGuru MAX allow me to import my FBX models?
