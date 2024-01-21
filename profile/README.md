@@ -12,6 +12,9 @@ Answer: **No, TGC is not looking to sell the company.**
 **Q**> We have a pupil who attends our school and is writing and illustrating stories that include characters from your products and concerned he will breach your copyright?
 Answer: **All the assets that are built into our game-making products are allowed to be used in games you make with no copyright issues or license fees to pay. It is generally agreed that providing you use our game maker products when using the assets we provide, you are free to exploit those assets as part of your game commercially with no issues. It goes without saying that you cannot take our assets and sell them separately as your own assets, they can only be included in a derivative work produced by our game-making products.**
 
+**Q**> I purchased your product but I lost my steam account. How can I download my Game Guru Max purchase again, without steam?
+Answer: **We only distribute our game-making products through Steam these days and under the Steam system, once you use a key on a Steam account it binds it to that account and disables the key. The only way to retrieve that product is to find the details of your old Steam account and restore it on your PC. Steam support will be able to help you retrieve your old account and once you are restored, you can find and download the products you purchased for that account.**
+
 ## GameGuru Classic and MAX
 
 **Q**> I am an artist and create models in the FBX file format, does GameGuru MAX allow me to import my FBX models?
