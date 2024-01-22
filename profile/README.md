@@ -40,6 +40,11 @@ Answer: **AGK Mobile is developed by a third-party developer. We have no creatio
 **Q**> What AGK AppGameKit products do you sell?
 Answer: **We sell two AGK products through Steam, AppGameKit Classic and AppGameKit Studio. Classic was created first and later we developed Studio and included more commands, features, and a new IDE. We also sell DLC created by ourselves and by third-parties that are compatible with AGK Classic and AGK Studio. We do not sell any products through our own TGC website and instead sell through Steam.**
 
+## Legacy Products
+
+**Q**> I am making a game using the original DarkBasic and I noticed it had this pop-up saying "Enhancements for 6 days" and its counting down to 0. I would like to still use 1.0, do you still provide support?
+Answer: **We no longer officially support our older legacy products such as DarkBASIC, DarkBASIC Pro, The 3D Gamemaker, and FPS Creator, and are unable to provide help if you choose to use them on modern Windows platforms. You may find some old forums still running that have a community surrounding these products, and they are your best bet for getting advice on what you are attempting. Thanks for checking out our past products, we appreciate the attention they still garner!**
+
 ## Miscellaneous
 
 **Q**> What do you like?
