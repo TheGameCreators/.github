@@ -15,6 +15,9 @@ Answer: **All the assets that are built into our game-making products are allowe
 **Q**> I purchased your product but I lost my steam account. How can I download my Game Guru Max purchase again, without steam?
 Answer: **We only distribute our game-making products through Steam these days and under the Steam system, once you use a key on a Steam account it binds it to that account and disables the key. The only way to retrieve that product is to find the details of your old Steam account and restore it on your PC. Steam support will be able to help you retrieve your old account and once you are restored, you can find and download the products you purchased for that account.**
 
+**Q**> I bought a product from your a while ago and now it is misbehaving, but when I tried to get a new download for the product I could not find it. Can you help?
+Answer: **If your order was around 2020 it is likely it was a download from our TGC website. We have since moved all our products to Steam and use Steam Keys to provide our software now.  You can download the Steam client and then use your key(s) to activate your product and then install a fresh copy of the product onto your PC.**
+
 ## GameGuru Classic and MAX
 
 **Q**> I am an artist and create models in the FBX file format, does GameGuru MAX allow me to import my FBX models?
