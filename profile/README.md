@@ -18,6 +18,12 @@ Answer: **We only distribute our game-making products through Steam these days a
 **Q**> I bought a product from your a while ago and now it is misbehaving, but when I tried to get a new download for the product I could not find it. Can you help?
 Answer: **If your order was around 2020 it is likely it was a download from our TGC website. We have since moved all our products to Steam and use Steam Keys to provide our software now.  You can download the Steam client and then use your key(s) to activate your product and then install a fresh copy of the product onto your PC.**
 
+**Q**> I bought a product from your a while ago and now it is misbehaving, but when I tried to get a new download for the product I could not find it. Can you help?
+Answer: **If your order was around 2020 it is likely it was a download from our TGC website. We have since moved all our products to Steam and use Steam Keys to provide our software now.  You can download the Steam client and then use your key(s) to activate your product and then install a fresh copy of the product onto your PC.**
+
+**Q**> We are looking to create an app for our website xyz.com, can you help?
+Answer: **TGC only develops the game-making tools themselves, and does not typically create games and apps directly. The best place to find help creating a game or app is our DISCORD and FORUM channels. The GameGuru DISCORD is '[https://discord.com/channels/950796460683829329/1190570343451082852](https://discord.gg/nFtfqQ7V)' and the AGK FORUM is 'https://forum.thegamecreators.com/board/59'.**
+
 ## GameGuru Classic and MAX
 
 **Q**> I am an artist and create models in the FBX file format, does GameGuru MAX allow me to import my FBX models?
