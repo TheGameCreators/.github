@@ -39,10 +39,10 @@ Answer: **If you can run the software once the first time only, and then it cras
 Answer: **GameGuru MAX can import 3D models from Blender 3D if you export them in an FBX file format.**
 
 **Q**> I have been working on a project and the program re-writes my files or deletes items out of the game I am building. When I reload the program it will load in a previously saved version (sometimes months old). How can I fix this?
-Answer: **If you find you are having problems with the files you save and export, it could be related to corruption in the software or your OS/File System. We commend backing up your projects and files, and peforming a full reinstall of the software, and run disk checks to make sure you have no issues with your storage systems. In development, these things will happen from time to time, and we always recommend making local and non-local (cloud) backups of your important files and work so you do not lose more than a few days of work.**
+Answer: **If you find you are having problems with the files you save and export, it could be related to corruption in the software or your OS/File System. We commend backing up your projects and files, and performing a full reinstall of the software, and run disk checks to make sure you have no issues with your storage systems. In development, these things will happen from time to time, and we always recommend making local and non-local (cloud) backups of your important files and work so you do not lose more than a few days of work.**
 
-**Q**> I have been able to open the program while online then working off line and now today I am getting an error stating I need to be online. Is there a way to continue to work offline with the program?
-Answer: **GameGuru MAX has a built-in license validation system that requires you to connect with Steam once at least every two weeks, using a valid Steam account with the product licensed to that account. Once this online step has been made, you can continue to use the product off-line without the need to go online or connect to your Steam account.**
+**Q**> I have been able to open the program while online then working offline and now today I am getting an error stating I need to be online. Is there a way to continue to work offline with the program?
+Answer: **GameGuru MAX has a built-in license validation system that requires you to connect with Steam once at least every two weeks, using a valid Steam account with the product licensed to that account. Once this online step has been made, you can continue to use the product offline without the need to go online or connect to your Steam account.**
 
 
 ## AppGameKit
@@ -51,7 +51,7 @@ Answer: **GameGuru MAX has a built-in license validation system that requires yo
 Answer: **AGK Mobile is developed by a third-party developer. We have no creation products that run on Android. We do sell AppGameKit which enables export to an APK that runs on Android, but you need to do the creation on a PC in Windows.**
 
 **Q**> What AGK AppGameKit products do you sell?
-Answer: **We sell two AGK products through Steam, AppGameKit Classic and AppGameKit Studio. Classic was created first and later we developed Studio and included more commands, features, and a new IDE. We also sell DLC created by ourselves and by third-parties that are compatible with AGK Classic and AGK Studio. We do not sell any products through our own TGC website and instead sell through Steam.**
+Answer: **We sell two AGK products through Steam, AppGameKit Classic and AppGameKit Studio. Classic was created first and later we developed Studio and included more commands, features, and a new IDE. We also sell DLC created by ourselves and by third parties that are compatible with AGK Classic and AGK Studio. We do not sell any products through our own TGC website and instead sell through Steam.**
 
 ## Legacy Products
 
