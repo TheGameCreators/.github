@@ -38,6 +38,13 @@ Answer: **If you can run the software once the first time only, and then it cras
 **Q**> Is there or will there be an option to import objects I created in Blender 3d?
 Answer: **GameGuru MAX can import 3D models from Blender 3D if you export them in an FBX file format.**
 
+**Q**> I have been working on a project and the program re-writes my files or deletes items out of the game I am building. When I reload the program it will load in a previously saved version (sometimes months old). How can I fix this?
+Answer: **If you find you are having problems with the files you save and export, it could be related to corruption in the software or your OS/File System. We commend backing up your projects and files, and peforming a full reinstall of the software, and run disk checks to make sure you have no issues with your storage systems. In development, these things will happen from time to time, and we always recommend making local and non-local (cloud) backups of your important files and work so you do not lose more than a few days of work.**
+
+**Q**> I have been able to open the program while online then working off line and now today I am getting an error stating I need to be online. Is there a way to continue to work offline with the program?
+Answer: **GameGuru MAX has a built-in license validation system that requires you to connect with Steam once at least every two weeks, using a valid Steam account with the product licensed to that account. Once this online step has been made, you can continue to use the product off-line without the need to go online or connect to your Steam account.**
+
+
 ## AppGameKit
 
 **Q**> I have a question about the AGK Mobile app that runs on my Android and iOS devices. Can you help?
