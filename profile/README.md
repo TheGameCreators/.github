@@ -30,7 +30,8 @@ Answer: **We no longer sell any FPS Creator products, including FPS Creator X10.
 **Q**> Can't log in, forgot password, need to reset password. HELP. Trying to update my product?
 Answer: **We only sell products through Steam these days so if you refer to not being able to log into Steam then you need to contact Steam. If you are referring to an older purchase directly with TGC, please provide the exact email you used when you registered a TGC account and we will be able to email you your password to that email address. From there, you can log into the TGC account and view your Products tab to download older products you have purchased directly from TGC.**
 
-
+**Q**> Hello, I am French and I wanted to know if it was possible to redo the software in French or to let me do it for free for the pleasure of it to be able to take full advantage and bring French speakers back to this superb software!
+Answer: **Thank you for your offer to translate one of our products. At this time we have no Translation Kits prepared, but are open to the idea in the future. The best place to start a conversation like this is in our amazing community, and see if other users would support this effort. You can reach out in various ways including our various DISCORD channels and of course our GitHub issues boards.**
 
 ## GameGuru Classic and MAX
 
