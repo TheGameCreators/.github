@@ -50,6 +50,9 @@ Answer: **If you find you are having problems with the files you save and export
 **Q**> I have been able to open the program while online then working offline and now today I am getting an error stating I need to be online. Is there a way to continue to work offline with the program?
 Answer: **GameGuru MAX has a built-in license validation system that requires you to connect with Steam once at least every two weeks, using a valid Steam account with the product licensed to that account. Once this online step has been made, you can continue to use the product offline without the need to go online or connect to your Steam account.**
 
+**Q**> After installing game guru MAX, the message appears, (failed to parse version list, please try again). I click on the button, check to update, and it doesn't update?
+Answer: **GameGuru MAX moved to Steam many years ago as the only way to purchase the product. It sounds like you are using the older non-Steam version of MAX with 'auto-updater' that we no longer sell and support. We offered Steam Keys to all our customers of the non-Steam product and you can use that key to get the latest version of GameGuru MAX now available on Steam.**
+
 
 ## AppGameKit
 
