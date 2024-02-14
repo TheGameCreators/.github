@@ -27,6 +27,11 @@ Answer: **TGC only develops the game-making tools themselves, and does not typic
 **Q**> The download link of FPS Creator X10 is wrong in my product list, can you please correct this? The link always download FPS creator classic?
 Answer: **We no longer sell any FPS Creator products, including FPS Creator X10. We have no authorized sellers or distributors of this product as well, so if you bought this product from a source other than TGC, you should claim a refund immediately.**
 
+**Q**> Can't log in, forgot password, need to reset password. HELP. Trying to update my product?
+Answer: **We only sell products through Steam these days so if you refer to not being able to log into Steam then you need to contact Steam. If you are referring to an older purchase directly with TGC, please provide the exact email you used when you registered a TGC account and we will be able to email you your password to that email address. From there, you can log into the TGC account and view your Products tab to download older products you have purchased directly from TGC.**
+
+
+
 ## GameGuru Classic and MAX
 
 **Q**> I am an artist and create models in the FBX file format, does GameGuru MAX allow me to import my FBX models?
