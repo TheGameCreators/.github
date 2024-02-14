@@ -70,6 +70,9 @@ Answer: **We sell two AGK products through Steam, AppGameKit Classic and AppGame
 **Q**> I need help using AppGameKit Classic or Studio, can you help?
 Answer: **The best place to get regular advice and help is the AGK Forums. You can find the Classic forum here "https://forum.thegamecreators.com/board/41" and the Studio forum here "https://forum.thegamecreators.com/board/59".**
 
+**Q**> I just downloaded the AppGameKit free trial! Would it be possible to access the serial port on a PC (or USB) from an AppGameKit program?
+Answer: **There is no way to access the Serial Port or USB Port from AGK Classic or AGK Studio programs out of the box.**
+
 ## Legacy Products
 
 **Q**> I am making a game using the original DarkBasic and I noticed it had this pop-up saying "Enhancements for 6 days" and its counting down to 0. I would like to still use 1.0, do you still provide support?
