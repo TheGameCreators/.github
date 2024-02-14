@@ -82,6 +82,9 @@ Answer: **For specific advice on what AppGameKit Classic and Studio can do, you 
 **Q**> I am making a game using the original DarkBasic and I noticed it had this pop-up saying "Enhancements for 6 days" and its counting down to 0. I would like to still use 1.0, do you still provide support?
 Answer: **We no longer officially support our older legacy products such as DarkBASIC, DarkBASIC Pro, The 3D Gamemaker, and FPS Creator, and are unable to provide help if you choose to use them on modern Windows platforms. You may find some old forums still running that have a community surrounding these products, and they are your best bet for getting advice on what you are attempting. Thanks for checking out our past products, we appreciate the attention they still garner!**
 
+**Q**> I installed the FPSC desert storm pack directly in the folders, and when I go into the inventory and scroll in the pack folder it crashes and I lose my work almost every 5 minutes, please help me!
+Answer: **We no longer support FPSC, we only support those products we presently sell on Steam. We do however keep our legacy forums open and you can seek advice and help from the FPSC forum here: "https://forum.thegamecreators.com/board/21".**
+
 ## Miscellaneous
 
 **Q**> What do you like?
