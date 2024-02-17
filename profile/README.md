@@ -33,6 +33,9 @@ Answer: **We only sell products through Steam these days so if you refer to not 
 **Q**> Hello, I am French and I wanted to know if it was possible to redo the software in French or to let me do it for free for the pleasure of it to be able to take full advantage and bring French speakers back to this superb software!
 Answer: **Thank you for your offer to translate one of our products. At this time we have no Translation Kits prepared, but are open to the idea in the future. The best place to start a conversation like this is in our amazing community, and see if other users would support this effort. You can reach out in various ways including our various DISCORD channels and of course our GitHub issues boards.**
 
+**Q**> Can I have a DRM-FREE copy of the latest IDE and update of your product, and let me know how I can make this work?
+Answer: **We do not sell any DRM-free versions of our software and all our products are not sold through Steam which uses the Steam DRM system under their key system. If you are experiencing problems with newer versions relating to DRM, you can use the Steam Client product properties Beta tab to revert to older versions of the product.**
+
 ## GameGuru Classic and MAX
 
 **Q**> I am an artist and create models in the FBX file format, does GameGuru MAX allow me to import my FBX models?
