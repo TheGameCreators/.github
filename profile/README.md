@@ -77,6 +77,9 @@ Answer: **There is no way to access the Serial Port or USB Port from AGK Classic
 **Q**> Does AppGameKit have support for any database? Does AppGameKit have the ability to call code written in other languages?
 Answer: **For specific advice on what AppGameKit Classic and Studio can do, you can review the documentation or better, use the AGK forum to ask your questions. You can find the Classic forum here "https://forum.thegamecreators.com/board/41" and the Studio forum here "https://forum.thegamecreators.com/board/59".**
 
+**Q**> I am considering whether this product might be feasible to add to our programming courses. Is it possible for me to get educational access to go through the current material to see how we might use AppGameKit in the classroom?
+Answer: **We no longer offer an educational version of our products and have moved all sales to a Steam only model. Only schools that allow purchase and use through a Steam client would be able to evaluate and use our products in a school setting.**
+
 
 ## Legacy Products
 
