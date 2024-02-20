@@ -36,6 +36,9 @@ Answer: **Thank you for your offer to translate one of our products. At this tim
 **Q**> Can I have a DRM-FREE copy of the latest IDE and update of your product, and let me know how I can make this work?
 Answer: **We do not sell any DRM-free versions of our software and all our products are now sold through Steam which uses the Steam DRM system under their key system. If you are experiencing problems with newer versions relating to DRM, you can use the Steam Client product properties Beta tab to revert to older versions of the product.**
 
+**Q**> I can't start your product because an error pops up at startup ( Failed to create the graphics device! ERROR: 887a0002 ) I can't figure out what the problem is.
+Answer: **This happens when your PC hardware is not compatible with the software, specifically related to the graphics device or GPU, or the drivers that control it. In these cases, it is best to seek a refund immediately from Steam and then use the trial version when you upgrade your PC hardware in the future to check if the software is compatible before purchasing again.**
+
 ## GameGuru Classic and MAX
 
 **Q**> I am an artist and create models in the FBX file format, does GameGuru MAX allow me to import my FBX models?
