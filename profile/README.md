@@ -65,6 +65,8 @@ Answer: **GameGuru MAX has a built-in license validation system that requires yo
 **Q**> After installing game guru MAX, the message appears, (failed to parse version list, please try again). I click on the button, check to update, and it doesn't update?
 Answer: **GameGuru MAX moved to Steam many years ago as the only way to purchase the product. It sounds like you are using the older non-Steam version of MAX with 'auto-updater' that we no longer sell and support. We offered Steam Keys to all our customers of the non-Steam product and you can use that key to get the latest version of GameGuru MAX now available on Steam.**
 
+**Q**> I have an AMD graphics card and see a message when I first run MAX stating an AMDFIX has been applied, but when I run it a second time it says device not created.
+Answer: **GameGuru MAX is written for DirectX 11, and some AMD graphics cards will produce a black screen. We implemented support for DXVK in these cases to instead run the engine via Vulkan to resolve this issue, however not ALL graphics cards are supported by the DXVK system, including cards such as the RX 6600. We have registered an issue for now, and eventually we may upgrade the engine entirely to DirectX 12/Vulkan which will immediately resolve this issue. At this time, if you find the AMDFIX results in an immediate error, we recommend you obtain a refund from Steam as there is no known workaround at this time.**
 
 ## AppGameKit
 
