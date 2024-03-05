@@ -68,6 +68,9 @@ Answer: **GameGuru MAX moved to Steam many years ago as the only way to purchase
 **Q**> I have an AMD graphics card and see a message when I first run MAX stating an AMDFIX has been applied, but when I run it a second time it says device not created.
 Answer: **GameGuru MAX is written for DirectX 11, and some AMD graphics cards will produce a black screen. We implemented support for DXVK in these cases to instead run the engine via Vulkan to resolve this issue, however not ALL graphics cards are supported by the DXVK system, including cards such as the RX 6600. We have registered an issue for now, and eventually we may upgrade the engine entirely to DirectX 12/Vulkan which will immediately resolve this issue. At this time, if you find the AMDFIX results in an immediate error, we recommend you obtain a refund from Steam as there is no known workaround at this time.**
 
+**Q**> I am running my games created in GameGuru but my FPS is low, getting 30 fps when my system can support 60 fps, why is this?
+Answer: **GameGuru MAX has its own built-in VSYNC (vertical sync) mode that can be toggled on and off. Your integrated graphics system (typically on gaming laptops) also have a VSYNC mode that can be on or off. If both MAX and your system have VSYNC set to ON, then you may see a double sync wait when running games, turning a 60 fps experience down to 30 fps. You can resolve this by switching one of the VSYNC settings mentioned above to OFF.**
+
 ## AppGameKit
 
 **Q**> I have a question about the AGK Mobile app that runs on my Android and iOS devices. Can you help?
